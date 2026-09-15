@@ -1,9 +1,14 @@
-README.md
+**README.md**
+
 PROJECT TITLE: Personal Bank Ledger & Statement Generator
+
 TEAM NO:KLH/PSPJAVA/S14/T26
+
 TEAM MEMBER NAMES WITH ID NUMBERS:
 1.2620090020 – k. Meghana
+
 2.2620030358 – A. Akshaya
+
 SUPERVISOR’S NAME: Dr.Madhavi Karumudi
 
 Abstract:
