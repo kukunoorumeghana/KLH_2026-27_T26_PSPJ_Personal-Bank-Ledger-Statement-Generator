@@ -26,7 +26,7 @@ CURRENT PHASE STATE: Phase 1 / Review 1
 PROJECT STRUCTURE:
 
 
-Personal-Bank-Ledger-And-Statement-Generator (UNDER THIS FOLDER)
+Personal-Bank-Ledger-And-Statement-Generator
 
 
 
