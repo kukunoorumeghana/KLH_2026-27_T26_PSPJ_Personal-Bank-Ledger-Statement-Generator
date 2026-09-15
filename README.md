@@ -51,17 +51,24 @@ Personal-Bank-Ledger-And-Statement-Generator (UNDER THIS FOLDER)
 
  
 
-EXECUTION INSTRUCTIONS:
 
+## EXECUTION INSTRUCTIONS
 
+```bash
 javac PersonalBankLedgerAndStatementGenerator.java
+java PersonalBankLedgerAndStatementGenerator
 
- java PersonalBankLedgerAndStatementGenerator
 
  
 
 Git Commands:
-* git init • git add . • git commit -m "Initial commit..." • git branch -M main • git remote add origin <repository_url> • git push -u origin main
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin <repository_url>
+git push -u origin main
+
 
 
 
